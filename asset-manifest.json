@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/asadalbadi-portfolio/static/css/main.5f64a70f.css",
+    "main.js": "/asadalbadi-portfolio/static/js/main.115dd41d.js",
+    "static/media/port3.jpg": "/asadalbadi-portfolio/static/media/port3.87613f4e73bac3d60632.jpg",
+    "static/media/me-about.png": "/asadalbadi-portfolio/static/media/me-about.e3daf0290019ed3cf9e4.png",
+    "static/media/port2.jpg": "/asadalbadi-portfolio/static/media/port2.a8281401cb5828963327.jpg",
+    "static/media/gaming.png": "/asadalbadi-portfolio/static/media/gaming.5f1eb4844db5021ab423.png",
+    "static/media/me.png": "/asadalbadi-portfolio/static/media/me.b9ffa7285dbaa8c5f2a2.png",
+    "static/media/bg-texture.png": "/asadalbadi-portfolio/static/media/bg-texture.8a258ac3b570d9b29377.png",
+    "static/media/port1.jpg": "/asadalbadi-portfolio/static/media/port1.6bec7e43c4a4812e9592.jpg",
+    "static/media/cv.pdf": "/asadalbadi-portfolio/static/media/cv.90cd41976925529ec133.pdf",
+    "static/media/coding.png": "/asadalbadi-portfolio/static/media/coding.78abdecd1d7f99ded9ba.png",
+    "index.html": "/asadalbadi-portfolio/index.html",
+    "main.5f64a70f.css.map": "/asadalbadi-portfolio/static/css/main.5f64a70f.css.map",
+    "main.115dd41d.js.map": "/asadalbadi-portfolio/static/js/main.115dd41d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f64a70f.css",
+    "static/js/main.115dd41d.js"
+  ]
+}
